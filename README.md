@@ -2,6 +2,9 @@
 
 Este projeto é uma implementação avançada de um sistema de videoconferência que utiliza princípios de SOLID e programação orientada a objetos (POO) para suportar múltiplos provedores de serviços de vídeo. Os provedores incluídos são Agora, Zoom e um provedor fictício chamado Alevideo. A arquitetura foi cuidadosamente projetada para garantir flexibilidade, manutenção e escalabilidade, utilizando padrões de design como Factory, Strategy e Dependency Injection.
 
+<img src="https://github.com/charleston10/nextjs-poo-video-abstraction-solid/assets/3097207/8d33e95c-a778-4dc2-b341-db1825e158d0" alt="image" width="400" height="300"/>
+
+
 ## Estrutura do Projeto
 
 A estrutura do projeto é organizada da seguinte forma:
