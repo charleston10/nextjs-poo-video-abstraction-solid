@@ -302,9 +302,7 @@ export * from "./zoom";
 #### Explicação
 - **Module Pattern**: Organiza e encapsula os módulos de provedores em um único ponto de exportação, melhorando a organização e a manutenção do código.
 
-### Arquivo: `providers/zoom
-
-.ts`
+### Arquivo: `providers/zoom.ts`
 
 #### Padrão Utilizado: Strategy Pattern (Implementação Concreta)
 
