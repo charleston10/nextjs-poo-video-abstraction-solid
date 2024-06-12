@@ -1,5 +1,4 @@
-import { Agora, Zoom } from "@/modules/videconference/providers";
-import { Alevideo } from "@/modules/videconference/providers/alevideo";
+import { Agora, Zoom, Alevideo } from "@/modules/videconference/providers";
 
 export function factoryProvider(providerName: string) {
   switch (providerName) {
